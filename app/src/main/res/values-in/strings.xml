@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="who_are_you_looking_for">Siapa yang anda cari?</string>
+    <string name="followers">Pengikut</string>
+    <string name="repository">Repositori</string>
+    <string name="following">Mengikuti</string>
+    <string name="profile">Profil</string>
+    <string name="profile_picture">Foto Profil</string>
+    <string name="button_back">Tombol Kembali</string>
+    <string name="logo">Logo</string>
+    <string name="button_search">Tombol Pencarian</string>
+    <string name="button_setting">Tombol Pengaturan</string>
+
+    <string name="_404">404: Tidak Ditemukan</string>
+    <string name="network_failure">Kegagalan Jaringan</string>
+    <string name="followers_null">Pengikut Tidak Ditemukan</string>
+    <string name="following_null">Mengikuti Tidak Ditemukan</string>
+
+    <string name="alarm">Setel pengingat alarm pada jam 9 pagi</string>
+    <string name="favorite">Favorit </string>
+    <string name="on">AKTIF </string>
+    <string name="off">OFF </string>
+    <string name="setting">Pengaturan</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="button_language">Tombol bahasa</string>
+
+    <string name="github_notif">Pengingat Github</string>
+    <string name="github_look">Ayo cari pengguna favorit Anda di Github!</string>
+    <string name="alarm_on">Alarm berulang disiapkan</string>
+    <string name="alarm_off">Alarm berulang dibatalkan</string>
+    <string name="add_fav">Berhasil menambahkan pengguna favorit</string>
+    <string name="remove_fav">Pengguna favorit dihapus</string>
+</resources>

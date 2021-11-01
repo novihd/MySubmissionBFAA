@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">MySubmission2</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="github_logo" translatable="false">Github</string>
+    <string name="who_are_you_looking_for">Who are you looking for?</string>
+    <string name="novi_hardiyanti_dewi" translatable="false">Novi Hardiyanti Dewi</string>
+    <string name="novihd" translatable="false">novihd</string>
+    <string name="google_inc" translatable="false">Google Inc</string>
+    <string name="pittsburgh_pa_usa" translatable="false">Pittsburgh, PA, USA</string>
+    <string name="_56995" translatable="false">56995</string>
+    <string name="followers">Followers</string>
+    <string name="repository">Repository</string>
+    <string name="following">Following</string>
+    <string name="profile">Profile</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="button_back">Back Button</string>
+    <string name="logo">Logo</string>
+    <string name="button_search">Search Button</string>
+    <string name="button_setting">Setting Button</string>
+    <string name="_404">404 : Not Found</string>
+    <string name="network_failure">Network Failure</string>
+    <string name="followers_null">Followers Not Found</string>
+    <string name="following_null">Following Not Found</string>
+    <string name="alarm">Set alarm reminder at 9 AM</string>
+    <string name="favorite">Favorite</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="setting">Setting</string>
+    <string name="change_language">Change Language</string>
+    <string name="button_language">Language Button</string>
+    <string name="github_notif">Github reminder</string>
+    <string name="github_look">Lets looking for your favorite user on Github!</string>
+    <string name="alarm_on">Repeating alarm is set up</string>
+    <string name="alarm_off">Repeating alarm canceled</string>
+    <string name="add_fav">Successfully added favorite users</string>
+    <string name="remove_fav">favorite users removed</string>
+
+</resources>

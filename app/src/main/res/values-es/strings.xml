@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="who_are_you_looking_for">¿A quién estás buscando?</string>
+    <string name="followers">Seguidores</string>
+    <string name="repository">Repositorio</string>
+    <string name="following">Siguiente</string>
+    <string name="profile">Perfil</string>
+    <string name="profile_picture">Foto de perfil</string>
+    <string name="button_back"> Botón de retroceso </string>
+    <string name="logo"> Logotipo </string>
+    <string name="button_search"> Botón de búsqueda </string>
+    <string name="button_setting"> Botón de configuración </string>
+
+    <string name="_404">404: No encontrado</string>
+    <string name="network_failure">Fallo de red</string>
+    <string name="followers_null">Seguidores no encontrados</string>
+    <string name="following_null">Siguiente no encontrado</string>
+
+    <string name="alarm">Establecer un recordatorio de alarma a las 9 a. m.</string>
+    <string name="favorite">Favorito</string>
+    <string name="on">ACTIVADO</string>
+    <string name="off">DESACTIVADO</string>
+    <string name="setting"> Configuración</string>
+    <string name="change_language">Cambiar idioma</string>
+    <string name="button_language">Botón de idioma</string>
+
+    <string name="github_notif">recordatorio de Github</string>
+    <string name="github_look">¡Busquemos a su usuario favorito en Github!</string>
+    <string name="alarm_on">La alarma repetida está configurada</string>
+    <string name="alarm_off">Alarma repetida cancelada</string>
+    <string name="add_fav">Usuarios favoritos agregados con éxito</string>
+    <string name="remove_fav">usuarios favoritos eliminados</string>
+</resources>
